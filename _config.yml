@@ -1,0 +1,14 @@
+layout_spectrum: 0.2508961
+typography_spectrum: 0.3799283
+color:
+  saturation: 0.141967
+  lightness: 0.5770609
+  brandStrength: 0.3405522
+  brandColors:
+    - '#FCFCFC'
+    - '#000000'
+    - '#BABECA'
+    - '#23293B'
+    - '#828CA0'
+  rhythmicContrast: 0.07252946
+name: 'Shabrawy '
