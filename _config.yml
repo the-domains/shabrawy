@@ -1,4 +1,3 @@
-layout_spectrum: 0.2508961
 typography_spectrum: 0.3799283
 color:
   saturation: 0.141967
@@ -11,4 +10,6 @@ color:
     - '#23293B'
     - '#828CA0'
   rhythmicContrast: 0.07252946
+layout_spectrum: 0.2508961
 name: 'Shabrawy '
+title: Shabrawy Creates
